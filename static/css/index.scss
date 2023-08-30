@@ -1,0 +1,19 @@
+.btn-account {
+  border: 3px solid #43b99e;
+  color: #333;
+
+  &:hover {
+    border: 3px solid #45c7a9;
+    color: #333;
+  }
+}
+
+.divider {
+  display: inline-block;
+  height: auto;
+  width: 1px;
+}
+
+body {
+  background: #333;
+}
